@@ -1,7 +1,7 @@
 {
   "serverstatus": "true",
   "noticemode": "false",
-  "dataclearmode": "true",
+  "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
   "libs": "https://github.com/ayush202003/ayush/raw/refs/heads/main/libPublicWh2.so",
